@@ -1,0 +1,15 @@
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.csproj.AssemblyReference.cache
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.AssemblyInfoInputs.cache
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.AssemblyInfo.cs
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.csproj.CoreCompileInputs.cache
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\bin\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.exe
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\bin\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.deps.json
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\bin\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.runtimeconfig.json
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\bin\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.dll
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\bin\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.pdb
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.dll
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\refint\ProgrammeringsUppgiftOmegapoint.dll
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.pdb
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ProgrammeringsUppgiftOmegapoint.genruntimeconfig.cache
+C:\Users\vicke\Documents\C# Umu\ProgrammeringsUppgiftOmegapoint\obj\Debug\net6.0\ref\ProgrammeringsUppgiftOmegapoint.dll
